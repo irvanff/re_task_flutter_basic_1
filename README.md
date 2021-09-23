@@ -1,4 +1,5 @@
 # re_task_flutter_basic_1
+![flutter basic 1](https://user-images.githubusercontent.com/56348329/134507208-5c777933-6b6a-4751-8dc8-b15e29b1dde6.jpeg)
 
 A new Flutter project.
 
